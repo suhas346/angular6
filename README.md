@@ -1,3 +1,6 @@
+# Description 
+this is new angular project.
+
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
